@@ -73,4 +73,4 @@ To make someone your Billing-Only Administrator, make sure they are currently _n
 
 ### Deleting Users
 
-To remove a person from the Space, click the **X** to the far right of their name. They will no longer be able to access any projects, except those that allow [public (anonymous) reviews](../people/#allow-public-reviews).
+To remove a person from the Space, clic the **X** to the far right of their name. They will no longer be able to access any projects, except those that allow [public (anonymous) reviews](../people/#allow-public-reviews).
